@@ -1,0 +1,80 @@
+canonical_identifier: bkk:krp/KR6v0406/v1
+canonical_location: https://kanripo.org/bkk/KR6v0406/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 尚理編
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B24/B24n0133.xml
+    old_id: B24n0133
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0406_000.yaml, hash: 'sha256:444f4b9c0824b91daf1abd0029065094f3ecfa75875ca65de83078b1b841a6fc'}
+  - {seq: 1, filename: KR6v0406_001.yaml, hash: 'sha256:a9c035a7047cc9582fbf894eef4b294110778e2c29dbecb104e81f038538af1f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0406_000.markers.yaml, hash: 'sha256:c7c2274b9d4ea09cb18808e1b3ea69132f2f11a9e822bc807e830fddef1e6953'}
+  - {seq: 1, role: markers, filename: assets/KR6v0406_001.markers.yaml, hash: 'sha256:6fed2cb651c5945bec15f0fef1ee24bd079aa3cbe245e06b42e6faac21586533'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0406_B_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 尚理編
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0406_B_000-mulu-2
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0406_B_000-mulu-3
+    span:
+    - front
+    - 561
+    - 561
+  label: 本文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0406_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 7646
+  label: 尚理編
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0406_B_001-mulu-1
+    span:
+    - body
+    - 6904
+    - 6904
+  label: 佛法不可滅論
+  type: mulu
+  level: 1
+hash: sha256:03949b7f6b2faf05542574e752e89443f52beba34d59e5f129b555eb3dbf7136
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
