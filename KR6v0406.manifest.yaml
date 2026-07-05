@@ -18,11 +18,11 @@ editions:
 - short: B
 assets:
   parts:
-  - {seq: 0, filename: KR6v0406_000.yaml, hash: 'sha256:444f4b9c0824b91daf1abd0029065094f3ecfa75875ca65de83078b1b841a6fc'}
-  - {seq: 1, filename: KR6v0406_001.yaml, hash: 'sha256:a9c035a7047cc9582fbf894eef4b294110778e2c29dbecb104e81f038538af1f'}
+  - {seq: 0, filename: KR6v0406_000.yaml, hash: 'sha256:c0e2b446b37de0d6363d4b7f90ad602d3cd5b421e63b7d3688ad460c52aef3d4'}
+  - {seq: 1, filename: KR6v0406_001.yaml, hash: 'sha256:86dcd35ae5fa89a6e22023c944486a3aa9d6ce550933d08373c1a42fea2e976c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0406_000.markers.yaml, hash: 'sha256:c7c2274b9d4ea09cb18808e1b3ea69132f2f11a9e822bc807e830fddef1e6953'}
-  - {seq: 1, role: markers, filename: assets/KR6v0406_001.markers.yaml, hash: 'sha256:6fed2cb651c5945bec15f0fef1ee24bd079aa3cbe245e06b42e6faac21586533'}
+  - {seq: 0, role: markers, filename: assets/KR6v0406_000.markers.yaml, hash: 'sha256:be57b655f64dd2540608188cc62f66298457a6caf7f534a9902735002a7fd762'}
+  - {seq: 1, role: markers, filename: assets/KR6v0406_001.markers.yaml, hash: 'sha256:e2a98cc8dc22ffcc45c1f162248a92a7a67e87bacf046340496a825b20fe4dfe'}
 table_of_contents:
 - ref:
     seq: 0
@@ -74,7 +74,4 @@ table_of_contents:
   label: 佛法不可滅論
   type: mulu
   level: 1
-hash: sha256:03949b7f6b2faf05542574e752e89443f52beba34d59e5f129b555eb3dbf7136
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:22383682082ce47be48ce38f0bf1f9b4bb398f87c78c424dd04192a2b36ab459
