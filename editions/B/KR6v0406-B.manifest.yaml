@@ -19,17 +19,17 @@ metadata:
     short: B
 assets:
   parts:
-  - {seq: 0, filename: KR6v0406_000-B.yaml, hash: 'sha256:c0e2b446b37de0d6363d4b7f90ad602d3cd5b421e63b7d3688ad460c52aef3d4'}
+  - {seq: 0, filename: KR6v0406_000-B.yaml, hash: 'sha256:646fb4280b16e7f04da80a101b3f28c2c07002296f2383e4f52cf6c3e5513cd8'}
   - {seq: 1, filename: KR6v0406_001-B.yaml, hash: 'sha256:86dcd35ae5fa89a6e22023c944486a3aa9d6ce550933d08373c1a42fea2e976c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0406_000-B.markers.yaml, hash: 'sha256:d3a30d04e2674905455b51d9504e8cd636ef293e9591cf15006c0a923e771f9c'}
+  - {seq: 0, role: markers, filename: assets/KR6v0406_000-B.markers.yaml, hash: 'sha256:72d201d994fdb661c49072b588a73bd55ef109006dbd1c6ffd2b6a332099e5a9'}
   - {seq: 1, role: markers, filename: assets/KR6v0406_001-B.markers.yaml, hash: 'sha256:474deea649647ac1487f38009b97c3b9c67e310d8d270de2d61997ba81977aa3'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0406_B_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 尚理編
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0406_B_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0406_B_000-mulu-3
     span:
-    - front
+    - body
     - 561
     - 561
   label: 本文
@@ -75,4 +75,4 @@ table_of_contents:
   label: 佛法不可滅論
   type: mulu
   level: 1
-hash: sha256:6e1e31575d2ca9dc9b211fe57acd8c6a6609e36c850acae207b180ade1b0899a
+hash: sha256:af86c6667de3ef0257a81c5be27c1cc17d2894d25a396d5fe3566de2550cdcb7
